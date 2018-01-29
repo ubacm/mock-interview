@@ -1,0 +1,12 @@
+# For any likely questions to be asked (i.e. input/output data types, terminology clarification, edge cases)
+Q/A:
+*
+*
+*
+
+
+# Hints to give if interviewee gets stuck or asks for help (i.e. data structures, algos, how to break down the problem)
+Hints:
+*
+*
+*
