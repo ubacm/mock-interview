@@ -1,0 +1,12 @@
+# For any likely questions to be asked (i.e. input/output data types, terminology clarification, edge cases)
+Q/A:
+* If the size of the array is even, return should be either of the center two, but it must be consistant and defined behavior (always left or always right)
+* If first element is null, program should return null
+* If size of LL is one, return first element, not null
+
+
+# Hints to give if interviewee gets stuck or asks for help (i.e. data structures, algos, how to break down the problem)
+Hints:
+* You are at the end of the linked list when the value of Node.next is null/None
+* Looping over the list is requred
+*

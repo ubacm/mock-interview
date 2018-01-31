@@ -1,0 +1,11 @@
+# For any likely questions to be asked (i.e. input/output data types, terminology clarification, edge cases)
+Q/A:
+* Uppercase and lowercase are separate characters
+* Whitespace counts
+
+
+# Hints to give if interviewee gets stuck or asks for help (i.e. data structures, algos, how to break down the problem)
+Hints:
+* Try finding a way to remove duplicate characters, this can be done manually or using built in structures. (suggest unordered sets if still struggling)
+* Python uses "for character in string" for looping over chars
+* "if character not in string" to check if character is already indexed
